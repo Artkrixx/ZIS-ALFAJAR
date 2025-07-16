@@ -114,13 +114,6 @@ Sistem Zakat Online Masjid Al Fajar Surabaya adalah platform digital yang dikemb
 - Transparansi dalam penyaluran bantuan
 - Program bantuan yang berkelanjutan
 
-##  Kontak dan Dukungan
-
-Untuk pertanyaan, saran, atau bantuan teknis, silakan hubungi tim kami melalui:
-- Website: https://zakat1.masjidalfajar-sby.site/
-- Form kontak yang tersedia di website
-- Media sosial Masjid Al Fajar Surabaya
-
 ---
 
 **Masjid Al Fajar Surabaya**  
